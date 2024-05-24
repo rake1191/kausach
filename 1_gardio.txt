@@ -1,1 +1,13 @@
-Hellli
+NLP applications with a simple Gradio Interface
+
+1) Building a text summarization app
+2) Building a Named Entity Recognition app
+
+The Gradio app can either deploy the model 
+- locally (or)
+- run the Inference from an existing server.[HF_API_SUMMARY_BASE]
+
+The App launches locally. 
+but it lets you create a public link to share with your team or friends.
+
+demo.launch
